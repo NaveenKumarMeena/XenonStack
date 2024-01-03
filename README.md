@@ -3,9 +3,7 @@
 # Task 1
 
 
-![Screenshot 2024-01-03 185847](https://github.com/JindalNayan/Xenon-stack-tasks/assets/89966415/c6f0ee50-f7fe-4fbf-82c5-ec920477561a)
-![Screenshot 2024-01-03 185714](https://github.com/JindalNayan/Xenon-stack-tasks/assets/89966415/14d82524-4530-4b76-b30a-b67e48750592)
-
+![Untitled Diagram drawio](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/891e4113-396c-4b3c-b5e5-ea5ad51d267d)
 
 # Task 2
 
@@ -14,4 +12,7 @@
 ##### And PHP as backend 
 ##### Jquery as validations and all
 ##### Mysql
-![Untitled Diagram drawio](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/891e4113-396c-4b3c-b5e5-ea5ad51d267d)
+![Screenshot (310)](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/a9134c94-3fcb-4d77-a647-c676bcd11ff1)
+![Screenshot (311)](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/e4a95b7a-d834-4b7d-9885-3b9a164d551e)
+![Screenshot (309)](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/d71b6dc7-4597-4f6c-9c60-1bec595e27f1)
+![Screenshot (312)](https://github.com/NaveenKumarMeena/XenonStack/assets/90886560/c6d682cf-b291-4814-acd7-4e75c2450275)
